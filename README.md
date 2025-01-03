@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yirgalem Zegeye</h1>
+<h1 align="center">Hi 👋, I'm Simegnew Aregahegn</h1>
 <h3 align="center">Aspiring Fullstack Developer from Ethiopia</h3>
 
 <p align="left">
