@@ -12,7 +12,7 @@
 🌱 I’m currently learning:
 JavaScript, TypeScript, React, HTML5, CSS3, Python, C#
 
-📫 How to reach me: **yirgazd21@gmail.com**
+📫 How to reach me: **simegnaregahagn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
