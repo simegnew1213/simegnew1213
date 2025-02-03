@@ -1,149 +1,84 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simegnew Aregahegn | Portfolio</title>
-    <style>
-        /* General Styles */
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: Arial, sans-serif;
-        }
-        body {
-            background-color: #121212;
-            color: white;
-            text-align: center;
-        }
+# SIMEGNEW AREGAHEGN
 
-        /* Header */
-        header {
-            background: #f39c12;
-            padding: 20px;
-        }
-        header h1 {
-            font-size: 2.5em;
-        }
+Welcome to my GitHub profile! 🇪🇹
 
-        /* Ethiopian Map Logo */
-        .logo {
-            width: 80px;
-            margin-top: 10px;
-        }
+<div align="center">
+  <img id="ethiopian-flag" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" alt="Ethiopian Flag" width="100"/>
+  <img id="ethiopian-map" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Ethiopia_%28orthographic_projection%29.svg" alt="Ethiopian Map" width="100"/>
+</div>
 
-        /* Profile Picture */
-        .profile-img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            border: 4px solid #f39c12;
-            margin-top: 20px;
-        }
+---
 
-        /* About Section */
-        .about {
-            padding: 50px 20px;
-        }
-        .about p {
-            font-size: 1.2em;
-            max-width: 600px;
-            margin: auto;
-            line-height: 1.6;
-        }
+### About Me
+I am a passionate developer from Ethiopia. I love coding and contributing to open-source projects.
 
-        /* Skills Section */
-        .skills {
-            background: #222;
-            padding: 50px 20px;
-        }
-        .skills h2 {
-            margin-bottom: 20px;
-        }
-        .skill-list {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            flex-wrap: wrap;
-        }
-        .skill {
-            background: #f39c12;
-            padding: 10px 20px;
-            border-radius: 5px;
-            font-size: 1.2em;
-        }
+---
 
-        /* Contact Section */
-        .contact {
-            padding: 50px 20px;
-        }
-        .contact a {
-            color: #f39c12;
-            text-decoration: none;
-            font-size: 1.2em;
-        }
-        .contact a:hover {
-            text-decoration: underline;
-        }
+### Skills
+- HTML, CSS, JavaScript, Python
+- Web Development
+- Data Analysis
 
-        /* Footer */
-        footer {
-            background: #111;
-            padding: 20px;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
+---
 
-    <!-- Header Section -->
-    <header>
-        <img src="ethiopia-map.png" alt="Ethiopian Map Logo" class="logo">
-        <h1>Simegnew Aregahegn</h1>
-        <p>Data Science Student | AI Enthusiast | Web Developer</p>
-    </header>
+### Projects
+Here are some of my projects:
 
-    <!-- Profile Picture -->
-    <img src="profile.jpg" alt="Simegnew Aregahegn Profile Picture" class="profile-img">
+- [Project 1](#)
+- [Project 2](#)
+- [Project 3](#)
 
-    <!-- About Me -->
-    <section class="about">
-        <h2>About Me</h2>
-        <p>Hello! I'm Simegnew Aregahegn, a passionate Data Science student with a love for AI and web development. I enjoy building projects and learning new technologies.</p>
-    </section>
+---
 
-    <!-- Skills Section -->
-    <section class="skills">
-        <h2>My Skills</h2>
-        <div class="skill-list">
-            <div class="skill">Python</div>
-            <div class="skill">HTML</div>
-            <div class="skill">CSS</div>
-            <div class="skill">JavaScript</div>
-            <div class="skill">Machine Learning</div>
-            <div class="skill">SQL</div>
-        </div>
-    </section>
+### Contact Me
+- Email: [simegnew@example.com](mailto:simegnew@example.com)
+- LinkedIn: [Simegnew Aregahgn](#)
+- Twitter: [@simegnew](#)
 
-    <!-- Contact Section -->
-    <section class="contact">
-        <h2>Contact Me</h2>
-        <p>Email: <a href="mailto:simegnew@example.com">simegnew@example.com</a></p>
-        <p>GitHub: <a href="https://github.com/SimegnewAregahegn" target="_blank">github.com/SimegnewAregahegn</a></p>
-    </section>
+---
 
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 2025 Simegnew Aregahegn. All rights reserved.</p>
-    </footer>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simegnew&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</div>
 
-</body>
-</html>
+---
 
+### Interactive Section
+<button onclick="changeColor()">Click Me to Change Text Color!</button>
 
+<style>
+  /* CSS for styling */
+  #ethiopian-flag, #ethiopian-map {
+    transition: transform 0.3s ease;
+  }
+  #ethiopian-flag:hover, #ethiopian-map:hover {
+    transform: scale(1.1);
+  }
+  button {
+    background-color: #2C3E50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  button:hover {
+    background-color: #34495E;
+  }
+</style>
+
+<script>
+  // JavaScript for interactivity
+  function changeColor() {
+    const elements = document.querySelectorAll('h1, h2, h3, p');
+    elements.forEach(element => {
+      element.style.color = element.style.color === 'red' ? 'black' : 'red';
+    });
+  }
+</script>
+
+      
+        
 
    
-
-
-
