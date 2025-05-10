@@ -10,9 +10,20 @@
 
 <h3 align="center">💻 Website Developer | HTML & CSS Enthusiast | Lifelong Learner</h3>
 
-<!-- Animation -->
+<!-- Coding GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+</p>
+
+<!-- Programming Language Logos -->
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.gif" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.gif" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.gif" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.gif" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.gif" alt="C++" />
+  <img src="https://img.icons8.com/color/48/000000/python--v1.gif" alt="Python" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-r-programming-languages-flat-flat-juicy-fish.png" alt="R" />
 </p>
 
 ---
@@ -32,10 +43,26 @@
 
 ## 👨‍💻 About Me
 
+- 🌍 I'm based in Ethiopia  
+- 💻 I’m a 2nd-year **Data Science student** and website developer  
 - 🔭 I’m currently learning **JavaScript**, **Python**, and **Django**
-- 🌐 Passionate about clean web design and responsive layouts
-- 🤝 Looking to collaborate on beginner-friendly open-source web projects
-- 📚 Curious about **Data Science**, **AI**, and modern front-end tools
+- 🌱 I also explore **Data Science**, **AI**, and full-stack tools  
+- 🤝 Open to collaborations on web or academic projects  
+
+---
+
+## 🛠️ Skills
+
+### Programming & Markup Languages:
+<p>
+  <img src="https://img.icons8.com/color/36/html-5--v1.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/36/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/36/javascript--v1.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/36/java-coffee-cup-logo--v1.png" alt="Java" />
+  <img src="https://img.icons8.com/color/36/c-plus-plus-logo.png" alt="C++" />
+  <img src="https://img.icons8.com/color/36/python--v1.png" alt="Python" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/36/external-r-programming-languages-flat-flat-juicy-fish.png" alt="R" />
+</p>
 
 ---
 
@@ -53,5 +80,3 @@
 > *"I build websites like I write poetry — clean, simple, and expressive."*
 
 ---
-
-
