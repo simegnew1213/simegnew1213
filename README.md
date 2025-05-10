@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/simegnewaregahegn35" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/simegnaregahagn" target="_blank">
+  <a href="https://www.facebook.com/simegnaregahagn@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
@@ -94,7 +94,7 @@
 - 📧 **Email**: [simegnaregahagn@gmail.com](mailto:simegnaregahagn@gmail.com)  
 - 💼 **LinkedIn**: [simegnewaregahegn35](https://www.linkedin.com/in/simegnewaregahegn35)  
 - 📱 **Phone**: +251 903269180  
-- 📘 **Facebook**: [Simegnaregahagn](https://www.facebook.com/simegnaregahagn)
+- 📘 **Facebook**: [Simegnaregahagn](https://www.facebook.com/simegnaregahagn@gmail.com)
 
 ---
 
