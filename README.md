@@ -10,9 +10,19 @@
 
 <h3 align="center">💻 Website Developer | HTML & CSS Enthusiast | Lifelong Learner</h3>
 
-<!-- New Programmer Animation -->
+<!-- Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGrjPHNuwkIM2EE/giphy.gif" width="400" alt="Programmer Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
+</p>
+
+<!-- Additional Programmer Animation GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/1pBsYpiqDoM8a2BQ8w/giphy.gif" width="400" alt="Programmer Animation" />
+</p>
+
+<!-- Another Animation of Developer at Work -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEduJ57YthlfWkmws/giphy.gif" width="400" alt="Developer at Work" />
 </p>
 
 <!-- Programming Language Logos -->
