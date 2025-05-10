@@ -15,6 +15,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
 </p>
 
+<!-- Programmer Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/1pBsYpiqDoM8a2BQ8w/giphy.gif" width="400" alt="Programmer Animation" />
+</p>
+
 <!-- Programming Language Logos -->
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.gif" alt="HTML" />
@@ -36,6 +41,9 @@
   </a>
   <a href="https://www.linkedin.com/in/simegnewaregahegn35" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/simegnaregahagn" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
@@ -80,3 +88,13 @@
 > *"I build websites like I write poetry — clean, simple, and expressive."*
 
 ---
+
+## 📱 Contact Information
+
+- 📧 **Email**: [simegnaregahagn@gmail.com](mailto:simegnaregahagn@gmail.com)  
+- 💼 **LinkedIn**: [simegnewaregahegn35](https://www.linkedin.com/in/simegnewaregahegn35)  
+- 📱 **Phone**: +251 903269180  
+- 📘 **Facebook**: [Simegnaregahagn](https://www.facebook.com/simegnaregahagn)
+
+---
+
