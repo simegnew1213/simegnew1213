@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p  style =align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*lV-3w0aouUL6Toqe" alt="Simegnew Aregahegn Banner" />
+  <img src="[https://miro.medium.com/v2/resize:fit:1400/0*lV-3w0aouUL6Toqe" alt=](https://i.ebayimg.com/images/g/i7UAAOSw-3NfR1s7/s-l1600.webp)"Simegnew Aregahegn Banner" />
 </p>
 
 <!-- Typing animation -->
