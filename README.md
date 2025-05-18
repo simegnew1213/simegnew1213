@@ -1,14 +1,7 @@
 <!-- Profile Header -->
 <p  style =align="center">
-          <style>
-        .center-image {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 100px;
-            height: 60px;
-        }
-    </style>
+          
+          
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" 
          alt="Ethiopian Flag" 
          width="100" 
