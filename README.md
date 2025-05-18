@@ -1,6 +1,9 @@
 <!-- Profile Header -->
 <p  style =align="center">
-    <img src="[[https://www.w3schools.com/html/img_girl.jpg](https://i.ebayimg.com/images/g/~0sAAOSwr7ZW3xM9/s-l1600.webp)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcwZM78kwGJ0_y6VuxUyoDpM2t1-0FODJNDQ&s)" alt="A girl smiling" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" 
+         alt="Ethiopian Flag" 
+         width="100" 
+         height="60">
 
 
 </p>
