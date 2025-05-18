@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="[https://readme-hero-images.vercel.app/api?username=simegnew1213&style=react&quote=Creative%20Web%20Developer&font=Roboto&color=blue&animation=fadeIn](https://m.economictimes.com/thumb/msid-57387551,width-1200,height-900,resizemode-4,imgsize-4974333/hackerearth-now-seeks-coders-across-seven-seas.jpg)" alt="Simegnew Aregahegn Banner" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*lV-3w0aouUL6Toqe" alt="Simegnew Aregahegn Banner" />
 </p>
 
 <!-- Typing animation -->
