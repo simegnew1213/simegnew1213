@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<p align="center">
+<p  style =align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*lV-3w0aouUL6Toqe" alt="Simegnew Aregahegn Banner" />
 </p>
 
@@ -16,7 +16,7 @@
 </p>
 
 <!-- Programmer Animation -->
-<p align="center">
+<!--<p align="center">
   <img src="https://media.giphy.com/media/1pBsYpiqDoM8a2BQ8w/giphy.gif" width="400" alt="Programmer Animation" />
 </p>
 
