@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p  style =align="center">
-    <img src="https://www.w3schools.com/html/img_girl.jpg" alt="A girl smiling" width="300">
+    <img src="[https://www.w3schools.com/html/img_girl.jpg](https://i.ebayimg.com/images/g/~0sAAOSwr7ZW3xM9/s-l1600.webp)" alt="A girl smiling" width="300">
 
 
 </p>
