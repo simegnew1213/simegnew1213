@@ -98,7 +98,7 @@
 ## 📱 Contact Information
 
 - 📧 **Email**: [simegnaregahagn@gmail.com](mailto:simegnaregahagn@gmail.com)  
-- 💼 **LinkedIn**: [simegnewaregahegn35](https://www.linkedin.com/in/simegnewaregahegn35)  
+- 💼 **LinkedIn**: [simegnewaregahegn35](https://www.linkedin.com/in/simegnewaregahegn000@gmail.com)  
 - 📱 **Phone**: +251 903269180  
 - 📘 **Facebook**: [Simegnaregahagn](https://www.facebook.com/simegnaregahagn@gmail.com)
 
