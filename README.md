@@ -12,10 +12,6 @@
 
 <h3 align="center">💻 Website Developer | HTML & CSS Enthusiast | Lifelong Learner | AI & Machine Learning Explorer</h3>
 
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
-</p>
 
 <!-- AI & Machine Learning GIF -->
 <p align="center">
