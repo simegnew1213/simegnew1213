@@ -114,21 +114,7 @@
     <img src="https://img.icons8.com/fluency/100/000000/web-design.png" alt="Web Project" title="Web Development Project" style="margin:10px"/>
   </a>
   
-  <!-- AI/ML Project 1 -->
-  <a href="https://github.com/simegnew1213/ai-project1" target="_blank">
-    <img src="https://img.icons8.com/fluency/100/000000/artificial-intelligence.png" alt="AI Project 1" title="AI/ML Project 1" style="margin:10px"/>
-  </a>
-  
-  <!-- AI/ML Project 2 -->
-  <a href="https://github.com/simegnew1213/ai-project2" target="_blank">
-    <img src="https://img.icons8.com/fluency/100/000000/machine-learning.png" alt="AI Project 2" title="AI/ML Project 2" style="margin:10px"/>
-  </a>
-  
-  <!-- AI/ML Project 3 -->
-  <a href="https://github.com/simegnew1213/ai-project3" target="_blank">
-    <img src="https://img.icons8.com/fluency/100/000000/data-science.png" alt="AI Project 3" title="AI/ML Project 3" style="margin:10px"/>
-  </a>
-</div>
+
 
 <p align="center">
   More projects can be found on my <a href="https://github.com/simegnew1213" target="_blank">GitHub profile</a>.
