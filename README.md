@@ -113,7 +113,12 @@
   <a href="https://your-website-project-link.com" target="_blank">
     <img src="https://img.icons8.com/fluency/100/000000/web-design.png" alt="Web Project" title="Web Development Project" style="margin:10px"/>
   </a>
+    <!-- AI/ML Project 1 -->
+  <a href="https://github.com/simegnew1213/ai-project1" target="_blank">
+    <img src="https://img.icons8.com/fluency/100/000000/artificial-intelligence.png" alt="AI Project 1" title="AI/ML Project 1" style="margin:10px"/>
+  </a>
   
+ 
 
 
 <p align="center">
