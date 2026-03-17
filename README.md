@@ -1,141 +1,246 @@
-<p style="text-align:center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" 
-       alt="Ethiopian Flag" 
-       width="100" 
-       height="60">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Simegnew Aregahegn - Profile</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Syne:wght@700;800&display=swap" rel="stylesheet"/>
+
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    h1 { text-align: center; font-size: 2rem; color: #f1f5f9; }
+    h2 { color: #38bdf8; }
+    h3 { text-align: center; color: #94a3b8; }
+    p { text-align: center; }
+    hr { border-color: #334155; margin: 28px 0; }
+
+    /* ===== ANIMATIONS ===== */
+
+    .greeting-line {
+      display: inline-block;
+      opacity: 0;
+      transform: translateY(24px);
+      animation: fadeSlideUp 0.7s ease forwards 0.2s;
+    }
+
+    .wave-emoji {
+      display: inline-block;
+      animation: waveHand 1.8s ease-in-out 1s infinite;
+      transform-origin: 70% 80%;
+    }
+
+    .name-text {
+      font-family: 'Syne', sans-serif;
+      font-weight: 800;
+      font-size: 1.15em;
+      display: inline-block;
+      opacity: 0;
+      animation: fadeSlideUp 0.7s ease forwards 0.55s;
+    }
+
+    .name-text span.letter {
+      display: inline-block;
+      color: #38bdf8;
+      opacity: 0;
+      transform: translateY(18px) scale(0.8);
+      animation: letterPop 0.45s cubic-bezier(.34,1.56,.64,1) forwards;
+    }
+
+    .animated-h1 {
+      position: relative;
+      display: inline-block;
+    }
+
+    .animated-h1::after {
+      content: '';
+      position: absolute;
+      bottom: -4px;
+      left: 0;
+      width: 100%;
+      height: 3px;
+      background: linear-gradient(90deg, transparent, #38bdf8, #818cf8, #38bdf8, transparent);
+      background-size: 200% 100%;
+      border-radius: 2px;
+      opacity: 0;
+      animation: shimmerLine 2.5s linear 1.4s infinite, fadeIn 0.5s ease 1.2s forwards;
+    }
+
+    .subtitle-animated {
+      overflow: hidden;
+      white-space: nowrap;
+      width: 0;
+      animation: typeReveal 1.8s steps(60, end) forwards 1.6s;
+      margin: 0 auto;
+      display: inline-block;
+    }
+
+    @keyframes fadeSlideUp {
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes waveHand {
+      0%,60%,100% { transform: rotate(0deg); }
+      10%,30% { transform: rotate(18deg); }
+      20% { transform: rotate(-8deg); }
+      40% { transform: rotate(14deg); }
+      50% { transform: rotate(-4deg); }
+    }
+
+    @keyframes letterPop {
+      to { opacity: 1; transform: translateY(0) scale(1); }
+    }
+
+    @keyframes shimmerLine {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+
+    @keyframes typeReveal {
+      to { width: 100%; }
+    }
+  </style>
+</head>
+
+<body>
+
+<!-- FLAG -->
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" width="100">
 </p>
 
-<!-- Typing animation -->
-<h1 align="center">
-  Hi there 👋, I'm <span style="color:#38bdf8;">SIMEGNEW AREGAHEGN</span>  
+<!-- HEADER -->
+<h1 class="animated-h1">
+  <span class="greeting-line">Hi there <span class="wave-emoji">👋</span>, I'm</span>
+  <span class="name-text" id="nameSpan">&nbsp;SIMEGNEW AREGAHEGN</span>
 </h1>
 
-<h3 align="center">💻 Website Developer | HTML & CSS Enthusiast | Lifelong Learner | AI & Machine Learning Explorer</h3>
+<h3>
+  <span class="subtitle-animated">
+    💻 Website Developer | HTML & CSS Enthusiast | Lifelong Learner | AI & Machine Learning Explorer
+  </span>
+</h3>
 
-
-<!-- AI & Machine Learning GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="400" alt="AI & Machine Learning Animation" />
+<!-- GIF -->
+<p>
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="400">
 </p>
 
-<h3 align="center">🤖 Exploring AI, Machine Learning, and Deep Learning</h3>
-<p align="center">
+<h3>🤖 Exploring AI, Machine Learning, and Deep Learning</h3>
+<p>
   From building predictive models to experimenting with neural networks — I love turning data into insights.
 </p>
 
-<!-- Programming Language Logos -->
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.gif" alt="HTML" />
-  <img src="https://img.icons8.com/color/48/000000/css3.gif" alt="CSS" />
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.gif" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.gif" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.gif" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:simegnaregahagn@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/simegnewaregahegn000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/simegnaregahagn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🌍 I'm based in Ethiopia  
-- 💻 I’m a 2nd-year **Data Science student** and website developer  
-- 🔭 I’m currently learning **JavaScript**, **Python**, **Django**, and **Machine Learning frameworks**  
-- 🌱 I explore **Data Science**, **AI**, **Deep Learning**, and **full-stack development**  
-- 🤝 Open to collaborations on web, AI, or academic projects  
-
----
-
-## 🛠️ Skills
-
-### Programming, Data & AI:
+<!-- SKILLS ICONS -->
 <p>
-  <img src="https://img.icons8.com/color/36/html-5--v1.png" alt="HTML" />
-  <img src="https://img.icons8.com/color/36/css3.png" alt="CSS" />
-  <img src="https://img.icons8.com/color/36/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/36/java-coffee-cup-logo--v1.png" alt="Java" />
-  <img src="https://img.icons8.com/color/36/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.icons8.com/color/48/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/r-project.png"/>
 </p>
 
----
+<hr/>
 
-
-## 📊 Top AI & Machine Learning Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<h2>🔗 Connect with Me</h2>
+<p>
+  <a href="mailto:simegnaregahagn@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/simegnewaregahegn000" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/simegnaregahagn" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  Visual representation of my core AI & Machine Learning toolkit.
+<hr/>
+
+<h2>👨‍💻 About Me</h2>
+<ul>
+  <li>🌍 Based in Ethiopia</li>
+  <li>💻 2nd-year Data Science student & web developer</li>
+  <li>🔭 Learning JavaScript, Python, Django, ML</li>
+  <li>🌱 Exploring AI, Deep Learning & Full-stack</li>
+  <li>🤝 Open to collaboration</li>
+</ul>
+
+<hr/>
+
+<h2>🛠️ Skills</h2>
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
----
+<hr/>
 
-## 🏆 Projects & AI/ML Portfolio
-
-<p align="center">
-  Explore my work in web development and AI/ML. Click the cards to view the projects!
-</p>
-
+<h2>🏆 Projects</h2>
 <div align="center">
-  <!-- Web Project -->
   <a href="https://your-website-project-link.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/100/000000/web-design.png" alt="Web Project" title="Web Development Project" style="margin:10px"/>
+    <img src="https://img.icons8.com/fluency/100/web-design.png"/>
   </a>
-    <!-- AI/ML Project 1 -->
   <a href="https://github.com/simegnew1213/ai-project1" target="_blank">
-    <img src="https://img.icons8.com/fluency/100/000000/artificial-intelligence.png" alt="AI Project 1" title="AI/ML Project 1" style="margin:10px"/>
+    <img src="https://img.icons8.com/fluency/100/artificial-intelligence.png"/>
   </a>
-  
- 
+</div>
 
-
-<p align="center">
-  More projects can be found on my <a href="https://github.com/simegnew1213" target="_blank">GitHub profile</a>.
+<p>
+  More on <a href="https://github.com/simegnew1213">GitHub</a>
 </p>
 
----
+<hr/>
 
-## ⚡ Fun Fact
+<h2>⚡ Fun Fact</h2>
+<blockquote>
+  <em>"I build websites like poetry and train models like puzzles."</em>
+</blockquote>
 
-> *"I build websites like I write poetry — clean, simple, and expressive. I train models like I solve puzzles — patient, logical, and curious."*
+<hr/>
 
----
+<h2>📱 Contact</h2>
+<ul>
+  <li>Email: simegnaregahagn@gmail.com</li>
+  <li>Phone: +251 903269180</li>
+</ul>
 
-## 📱 Contact Information
+<!-- NAME ANIMATION SCRIPT -->
+<script>
+(function () {
+  const nameSpan = document.getElementById('nameSpan');
+  const fullName = '\u00a0SIMEGNEW AREGAHEGN';
+  nameSpan.textContent = '';
 
-- 📧 **Email**: [simegnaregahagn@gmail.com](mailto:simegnaregahagn@gmail.com)  
-- 💼 **LinkedIn**: [simegnewaregahegn000@gmail.com](https://www.linkedin.com/in/simegnewaregahegn000@gmail.com)  
-- 📱 **Phone**: +251 903269180  
-- 📘 **Facebook**: [Simegnaregahagn](https://www.facebook.com/simegnaregahagn@gmail.com)
+  [...fullName].forEach((ch, i) => {
+    if (ch === ' ' || ch === '\u00a0') {
+      nameSpan.appendChild(document.createTextNode(ch));
+      return;
+    }
+    const span = document.createElement('span');
+    span.classList.add('letter');
+    span.textContent = ch;
+    span.style.animationDelay = (0.65 + i * 0.055) + 's';
+    nameSpan.appendChild(span);
+  });
+})();
+</script>
+
+</body>
+</html>
