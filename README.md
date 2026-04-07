@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="blob:https://gemini.google.com/152f8621-30b6-428b-bdd5-b2e26cb163c8" alt="Simegnew Aregahegn Data Scientist Banner" width="100%">
+  <img src="blob:https://gemini.google.com/9de26a04-fb34-4731-9216-8182300d813a" alt="Simegnew Aregahegn Data Scientist Banner" width="100%">
 </p>
 
 <p style="text-align:center">
