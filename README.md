@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/Cvp4W6D/image.png" alt="Simegnew Aregahegn Data Scientist Banner" width="100%">
+  <img src=""C:\Users\simeg\OneDrive\Pictures\simegnew.png"" alt="Simegnew Aregahegn Data Scientist Banner" width="100%">
 </p>
 
 <p style="text-align:center">
