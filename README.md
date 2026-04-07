@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="blob:https://gemini.google.com/9de26a04-fb34-4731-9216-8182300d813a" alt="Simegnew Aregahegn Data Scientist Banner" width="100%">
-</p>
+<!-- <p align="center">
+  <img src="blob:https://gemini.google.com/9de26a04-fb34-4731-9216-8182300d813a
+    " alt="Simegnew Aregahegn Data Scientist Banner" width="100%">
+</p> -->
 
 <p style="text-align:center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" 
