@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/Cvp4W6D/image.png" alt="Simegnew Aregahegn Data Scientist Banner" width="100%">
+  <img src="UPLOAD_YOUR_IMAGE_AND_PASTE_DIRECT_LINK_HERE" alt="Simegnew Aregahegn Data Scientist Banner" width="100%">
 </p>
 
 <p style="text-align:center">
@@ -81,24 +81,6 @@
 
 ---
 
-## 📊 Top AI & Machine Learning Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-
-<p align="center">
-  Visual representation of my core AI & Machine Learning toolkit.
-</p>
-
----
-
 ## 🏆 Projects & AI/ML Portfolio
 
 <p align="center">
@@ -109,14 +91,10 @@
   <a href="https://your-website-project-link.com" target="_blank">
     <img src="https://img.icons8.com/fluency/100/000000/web-design.png" alt="Web Project" title="Web Development Project" style="margin:10px"/>
   </a>
-    <a href="https://github.com/simegnew1213/ai-project1" target="_blank">
+  <a href="https://github.com/simegnew1213/ai-project1" target="_blank">
     <img src="https://img.icons8.com/fluency/100/000000/artificial-intelligence.png" alt="AI Project 1" title="AI/ML Project 1" style="margin:10px"/>
   </a>
 </div>
-
-<p align="center">
-  More projects can be found on my <a href="https://github.com/simegnew1213" target="_blank">GitHub profile</a>.
-</p>
 
 ---
 
