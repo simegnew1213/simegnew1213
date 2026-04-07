@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="UPLOAD_YOUR_IMAGE_AND_PASTE_DIRECT_LINK_HERE" alt="Simegnew Aregahegn Data Scientist Banner" width="100%">
+  <img src="https://i.ibb.co/Cvp4W6D/image.png" alt="Simegnew Aregahegn Data Scientist Banner" width="100%">
 </p>
 
 <p style="text-align:center">
